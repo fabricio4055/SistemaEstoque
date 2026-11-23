@@ -1,0 +1,3 @@
+# arquivos compilados (são gerados ao compilar)
+bin/
+*.class
