@@ -46,7 +46,7 @@ No Prompt de Comando do Windows, use `src\*.java` no lugar de `src/*.java`.
 ### Baixando pelo GitHub
 
 ```bash
-git clone <link-deste-repositório>
+git clone <git clone https://github.com/fabricio4055/SistemaEstoque.git>
 cd SistemaEstoque
 javac -encoding UTF-8 -d bin src/*.java
 java -cp bin App
